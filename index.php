@@ -77,7 +77,7 @@ body{
                     <input name="email" id="EMAIL" type="email" placeholder="Email" class="form-control">
                     <br>
                     <input name="password" id="PASS" type="password" placeholder="Password" class="form-control">
-                    <br>
+                    <br><br>
                      <div class="spacing"><input type="hidden" id="csToken" name="CSR"/></div>
                     <input type="submit" name="submit" value="Log In" class="btn btn-primary">
 
